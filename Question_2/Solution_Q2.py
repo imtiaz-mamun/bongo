@@ -66,6 +66,8 @@ add_obj = input("\nObject Addition to the dictionary:\nInsert Object Name?")
 if(add_obj):
     add_param_key = "y"
     count=0
+    keys = []
+    val = []
     while(add_param_key=="y" or add_param_key=="Y"):
         add_param_key = input("Add new parameter?(Y/N)")
         if(add_param_key=="y" or add_param_key=="Y"):
