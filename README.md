@@ -1,4 +1,4 @@
-## bongo Unit Test: 
+## BongoBD Unit Test: 
 ### python -m unittest source_code.py
 
 # Solution 1: OK
